@@ -82,7 +82,7 @@ export default function Projects() {
           </Tab.Container>
         </Row>
       </Container>
-      <img className="background-image" src={colorSharp2} alt="color sharp" />
+      <img className="background-image-right" src={colorSharp2} alt="color sharp" />
     </section>
   );
 }

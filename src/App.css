@@ -565,6 +565,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  min-height: 250px;
+  display: flex;
+  align-items: center;
 }
 .newsletter-bx {
   background: #ffffff;
@@ -627,7 +630,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 18px;
 }
 .footer img {
-  width: 26%;
+  width: 40%;
 }
 .footer p {
   font-weight: 400;
